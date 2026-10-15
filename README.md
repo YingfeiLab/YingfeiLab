@@ -12,7 +12,7 @@ South China University of Technology · Pengcheng Laboratory
 
 ## About me
 
-I am a Ph.D. student with the School of Future Technology at South China University of Technology (SCUT), and I also conduct research with the Department of Networked Intelligence at Pengcheng Laboratory. I received my M.Eng. degree in Mechanical and Electrical Engineering from Shihezi University in 2022.
+I am a Ph.D. student with the School of Future Technology at South China University of Technology (SCUT), and I also conduct research with the Department of Networked Intelligence at Pengcheng Laboratory.
 
 My research lies at the intersection of **deterministic networking** and **intelligent edge systems**. I study how communication, computing, and learning can be jointly designed for industrial workloads that require bounded latency, reliability, fairness, and efficient use of heterogeneous resources.
 
