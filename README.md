@@ -56,4 +56,4 @@ My research lies at the intersection of **deterministic networking** and **intel
 
 ## Contact
 
-The best way to reach me is through [GitHub](https://github.com/YingfeiLab).
+The best way to reach me is through yaoyfbox@163.com.
