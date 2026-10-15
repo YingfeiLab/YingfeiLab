@@ -30,7 +30,7 @@ My research lies at the intersection of **deterministic networking** and **intel
 
 2. Nan Zhou, **Yingfei Yao**, Xiaojun Liang, Shunchun Yao, Jiafu Wan, Chunhua Yang, Weihua Gui, and Wen Gao, “Convergence of Reinforcement Learning and Time-Sensitive Networking for Future Industrial AI Agent Communication: Fundamentals, Challenges, and Opportunities,” *IEEE Communications Surveys & Tutorials*, 2026. [DOI: 10.1109/COMST.2026.3690893](https://doi.org/10.1109/COMST.2026.3690893)
 
-3. Nan Zhou, **Yingfei Yao**, Xiaojun Liang, Shunchun Yao, Chunhua Yang, and Weihua Gui, “Optimization and Evaluation of Container-Based EtherCAT Communication in Virtual PLCs,” *IEEE Transactions on Industrial Electronics*, 2026. [DOI: 10.1109/TIE.2026.3670311](https://doi.org/10.1109/TIE.2026.3670311)
+3. Nan Zhou, **Yingfei Yao**, Xiaojun Liang, Shunchun Yao, Chunhua Yang, and Weihua Gui, “Optimization and Evaluation of Container-Based EtherCAT Communication in Virtual PLCs,” *IEEE Transactions on Industrial Electronics*, 2026. [DOI: 10.1109/TIE.2026.3670311](https://doi.org/10.1109/TIE.2026.3670311) Link: https://github.com/morthlee/vplc-realtime-benchmark
 
 4. **Yingfei Yao**, Shunchun Yao, Nan Zhou, Xiaojun Liang, Chunhua Yang, and Weihua Gui, “Distributed Deep Reinforcement Learning Based Deterministic Task Offloading in End-Edge-Cloud Collaborative Computing Networks,” in *Cyberspace Simulation and Evaluation*, Springer, 2024, pp. 90–103. [DOI: 10.1007/978-981-96-4503-9_7](https://doi.org/10.1007/978-981-96-4503-9_7)
 
