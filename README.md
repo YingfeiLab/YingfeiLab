@@ -2,48 +2,58 @@
 
 # Yingfei Yao
 
-**Distributed AI Systems · Edge LLM/LMM Inference · Performance Engineering**
+**Ph.D. Student in Industrial Edge Intelligence**
 
-Shenzhen, China · South China University of Technology
+Time-Sensitive Networking · Industrial Edge Computing · Distributed RL · Edge LLM/LMM Systems
 
-[Featured Project](https://github.com/YingfeiLab/ecllama_mul_cc) · [GitHub Profile](https://github.com/YingfeiLab)
+South China University of Technology · Pengcheng Laboratory
 
 </div>
 
-## About
+## About me
 
-I work on efficient large language and multimodal model inference for distributed edge environments. My current focus is building practical systems around `llama.cpp`, with an emphasis on low-latency communication, workload scheduling, and heterogeneous-device performance.
+I am a Ph.D. student with the School of Future Technology at South China University of Technology (SCUT), and I also conduct research with the Department of Networked Intelligence at Pengcheng Laboratory. I received my M.Eng. degree in Mechanical and Electrical Engineering from Shihezi University in 2022.
 
-- Building distributed edge-cluster LLM/LMM inference systems
-- Exploring pipeline parallelism, dynamic scheduling, and multimodal serving
-- Working mainly with C/C++, Python, CUDA, CMake, Docker, and ZeroMQ
+My research lies at the intersection of **deterministic networking** and **intelligent edge systems**. I study how communication, computing, and learning can be jointly designed for industrial workloads that require bounded latency, reliability, fairness, and efficient use of heterogeneous resources.
 
-## Featured project
+## Research interests
 
-### [ecllama_mul_cc](https://github.com/YingfeiLab/ecllama_mul_cc)
+- **Time-Sensitive Networking (TSN):** deterministic communication, traffic shaping and scheduling, and industrial AI agent communication
+- **Industrial edge computing:** computation offloading, joint compute-network scheduling, and distributed collaborative control
+- **Distributed reinforcement learning:** multi-agent decision-making for latency-, fairness-, and QoS-aware resource allocation
+- **Industrial communication systems:** containerized virtual PLCs, EtherCAT, DPDK, and real-time packet processing
+- **Edge AI systems:** QoS-aware distributed LLM/LMM inference, heterogeneous batching, pipeline parallelism, and runtime resource protection
 
-Distributed edge-cluster LMM inference based on `llama.cpp`, using a ZeroMQ ring topology for communication between nodes.
+## Selected publications
 
-`C++` · `C` · `Python` · `CUDA` · `CMake` · `ZeroMQ` · `llama.cpp`
+1. **Yingfei Yao**, Nan Zhou, Shunchun Yao, Xiaojun Liang, Wenfeng Deng, Chunhua Yang, and Weihua Gui, “Fairness-Aware Deterministic Joint Offloading and Scheduling for Industrial Edge Computing,” *IEEE Transactions on Industrial Informatics*, 2026. [DOI: 10.1109/TII.2026.3654608](https://doi.org/10.1109/TII.2026.3654608)
 
-## Current interests
+2. Nan Zhou, **Yingfei Yao**, Xiaojun Liang, Shunchun Yao, Jiafu Wan, Chunhua Yang, Weihua Gui, and Wen Gao, “Convergence of Reinforcement Learning and Time-Sensitive Networking for Future Industrial AI Agent Communication: Fundamentals, Challenges, and Opportunities,” *IEEE Communications Surveys & Tutorials*, 2026. [DOI: 10.1109/COMST.2026.3690893](https://doi.org/10.1109/COMST.2026.3690893)
 
-- Efficient inference on heterogeneous edge devices
-- Distributed execution and pipeline parallelism
-- Scheduling, batching, and communication optimization
-- Multimodal model serving
-- Deterministic and low-latency edge networking
+3. Nan Zhou, **Yingfei Yao**, Xiaojun Liang, Shunchun Yao, Chunhua Yang, and Weihua Gui, “Optimization and Evaluation of Container-Based EtherCAT Communication in Virtual PLCs,” *IEEE Transactions on Industrial Electronics*, 2026. [DOI: 10.1109/TIE.2026.3670311](https://doi.org/10.1109/TIE.2026.3670311)
+
+4. **Yingfei Yao**, Shunchun Yao, Nan Zhou, Xiaojun Liang, Chunhua Yang, and Weihua Gui, “Distributed Deep Reinforcement Learning Based Deterministic Task Offloading in End-Edge-Cloud Collaborative Computing Networks,” in *Cyberspace Simulation and Evaluation*, Springer, 2024, pp. 90–103. [DOI: 10.1007/978-981-96-4503-9_7](https://doi.org/10.1007/978-981-96-4503-9_7)
+
+## Selected patent applications
+
+- **Edge-computing task scheduling method, apparatus, device, storage medium, and product** — CN 118069317 A, first inventor
+- **Industrial-network latency-error compensation method, apparatus, device, and storage medium** — CN 118199778 A, co-inventor
+- **Network-transmission parameter optimization method, apparatus, electronic device, and storage medium** — CN 119629056 A, first inventor
+
+## Current research
+
+- **EdgeCluster-LMM:** communication- and QoS-aware distributed inference serving for large multimodal models over heterogeneous IoT edge clusters
+- **Deterministic multi-flow industrial communication:** combining TSN with container-native EtherCAT for virtualized PLCs
+- **Compute-network co-design:** learning-based joint offloading, scheduling, and resource management for industrial edge intelligence
+
+## Technical focus
+
+`C/C++` · `Python` · `CUDA` · `DPDK` · `EtherCAT` · `TSN` · `Linux/PREEMPT_RT` · `Docker` · `CMake` · `ZeroMQ` · `llama.cpp`
 
 ## 中文简介
 
-我关注面向异构边缘设备的大语言模型与多模态大模型推理，主要围绕 `llama.cpp` 开展分布式执行、流水线并行、动态调度、通信优化与多模态服务等方面的系统研发。
+我是华南理工大学未来技术学院博士研究生，并在鹏城实验室网络智能部开展研究工作。研究聚焦于**确定性网络与智能边缘系统的交叉领域**，包括时间敏感网络（TSN）、工业边缘计算、分布式强化学习、任务卸载与计算网络协同调度、虚拟化 PLC/EtherCAT，以及异构边缘集群上的大语言模型与多模态大模型分布式推理。
 
 ## Contact
 
 The best way to reach me is through [GitHub](https://github.com/YingfeiLab).
-
-<!--
-Future additions:
-- Add a public email only if you want it displayed to everyone.
-- Add education, publications, work experience, and awards after confirming exact wording and dates.
--->
